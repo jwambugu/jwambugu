@@ -5,6 +5,7 @@ What I'm up to:
 - 🧑🏾‍💻 Currently working at the FMCG industry helping build tools for orders placement, management and delivery tracking.
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on golang, laravel or vue.js projects.
+- 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
 
 📫 Reach me: jorammurage96@gmail.com
 
