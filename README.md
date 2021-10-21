@@ -7,7 +7,7 @@ What I'm up to:
 - 💡 Looking to collaborate on golang, laravel or vue.js projects.
 - 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
 
-📫 Reach me: jorammurage96@gmail.com
+<!-- 📫 Reach me: jorammurage96@gmail.com -->
 
 <!-- ![Joram's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwambugu&show_icons=true&theme=gruvbox&count_private=true) -->
 
