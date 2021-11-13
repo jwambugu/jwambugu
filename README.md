@@ -9,7 +9,7 @@ What I'm up to:
 
 <!-- 📫 Reach me: jorammurage96@gmail.com -->
 
-<!-- ![Joram's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwambugu&show_icons=true&theme=gruvbox&count_private=true) -->
+![Joram's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwambugu&show_icons=true&theme=gruvbox&count_private=true)
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/wakatime/?username=jwambugu&theme=gruvbox&langs_count=8&layout=compact)](https://github.com/jwambugu) -->
 
