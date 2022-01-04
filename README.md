@@ -6,6 +6,7 @@ What I'm up to:
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on golang, laravel or vue.js projects.
 - 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
+- 🖤 In love with gRPC :)
 
 <!-- 📫 Reach me: jorammurage96@gmail.com -->
 
