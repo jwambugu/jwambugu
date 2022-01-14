@@ -1,10 +1,10 @@
 ### Hello there 👋🏽 I'm Joram
-I'm a software developer working with golang, laravel and vue.js
+I'm a software developer working with go, laravel and vue.js
 
 What I'm up to:
 - 🧑🏾‍💻 Currently working at the FMCG industry helping build tools for orders placement, management and delivery tracking.
 - 📝 Learning more about microservices and messaging systems.
-- 💡 Looking to collaborate on golang, laravel or vue.js projects.
+- 💡 Looking to collaborate on go, laravel or vue.js projects.
 - 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
 - 🖤 In love with gRPC :)
 
