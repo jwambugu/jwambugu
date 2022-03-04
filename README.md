@@ -2,7 +2,7 @@
 I'm a software developer working with go, laravel and vue.js
 
 What I'm up to:
-- 🧑🏾‍💻 Currently working at the FMCG industry helping build tools for orders placement, management and delivery tracking.
+- 🧑🏾‍💻 Currently building [https://www.withkoa.com](https://www.withkoa.com).
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on go, laravel or vue.js projects.
 - 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
