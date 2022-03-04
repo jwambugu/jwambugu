@@ -2,10 +2,10 @@
 I'm a software developer working with go, laravel and vue.js
 
 What I'm up to:
-- 🧑🏾‍💻 Currently building [https://www.withkoa.com](https://www.withkoa.com).
+- 🧑🏾‍💻 Currently building [Koa](https://www.withkoa.com).
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on go, laravel or vue.js projects.
-- 📝 Creating tutorials on [https://dev.to/jwambugu/](https://dev.to/jwambugu/)
+- 📝 Creating tutorials on [dev.to](https://dev.to/jwambugu/)
 - 🖤 In love with gRPC :)
 
 <!-- 📫 Reach me: jorammurage96@gmail.com -->
