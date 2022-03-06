@@ -5,7 +5,7 @@ What I'm up to:
 - 🧑🏾‍💻 Currently building [Koa](https://www.withkoa.com).
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on go, laravel or vue.js projects.
-- 📝 Creating tutorials on [dev.to](https://dev.to/jwambugu/)
+- 📝 Blogging here [dev.to](https://dev.to/jwambugu/)
 - 🖤 In love with gRPC :)
 
 <!-- 📫 Reach me: jorammurage96@gmail.com -->
