@@ -2,7 +2,7 @@
 I'm a software developer working with go, laravel and vue.js
 
 What I'm up to:
-- 🧑🏾‍💻 Currently building [Koa](https://www.withkoa.com).
+- 🧑🏾‍💻 Currently building [Lotus](https://www.withlotus.com/).
 - 📝 Learning more about microservices and messaging systems.
 - 💡 Looking to collaborate on go, laravel or vue.js projects.
 - 📝 Blogging here [dev.to](https://dev.to/jwambugu/)
